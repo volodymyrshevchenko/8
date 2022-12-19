@@ -3,7 +3,7 @@ public class Main {
 
         String badNumber4 ="4";
         String badNumber9 ="9";
-        int name = 0;
+         int name = 0;
 
         for (int i = 0; i<= 100; i++){
             name++;
